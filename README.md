@@ -4,14 +4,14 @@ Howdy! My name is Adam, and write software for a living (and sometimes for fun).
 
 ## 💻 Technologies
 
-<img align="left" alt="Go" src="go.png" width="64" />
-<img align="left" alt="NodeJS" src="nodejs.png" width="64" />
-<img align="left" alt="VueJS" src="vue.png" width="64" />
-<img align="left" alt="Angular" src="angular.png" width="64" />
-<img align="left" alt="C#" src="csharp.png" width="64" />
-<img align="left" alt="JavaScript" src="javascript.png" width="64" />
-<img align="left" alt="Ionic" src="ionic.png" width="64" />
-<img alt="Bootstrap" src="bootstrap.png" width="64" />
+[<img align="left" alt="Go" src="go.png" width="64" />](https://golang.org)
+[<img align="left" alt="NodeJS" src="nodejs.png" width="64" />](https://nodejs.org/en/)
+[<img align="left" alt="VueJS" src="vue.png" width="64" />](https://vuejs.org)
+[<img align="left" alt="Angular" src="angular.png" width="64" />](https://angular.io)
+[<img align="left" alt="C#" src="csharp.png" width="64" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img align="left" alt="JavaScript" src="javascript.png" width="64" />](https://javascript.info)
+[<img align="left" alt="Ionic" src="ionic.png" width="64" />](https://ionicframework.com)
+[<img alt="Bootstrap" src="bootstrap.png" width="64" />](https://getbootstrap.com)
 
 ... and so on. Occasionaly I write about writing software, and I also enjoy photography and videography 📷 !
 
