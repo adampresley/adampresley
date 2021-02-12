@@ -6,7 +6,7 @@ Howdy! My name is Adam, and write software for a living (and sometimes for fun).
 * NodeJS
 * VueJS
 * Angular
-* [<img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />][C#]
+* <img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> C#
 * Java
 * JavaScript
 * ColdFusion
