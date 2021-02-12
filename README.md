@@ -2,7 +2,7 @@
 
 Howdy! My name is Adam, and write software for a living (and sometimes for fun). I've been engineering solutions since 1999 in a plethora of tech stacks and languages.
 
-## Technologies
+## 💻 Technologies
 
 <img align="left" alt="Go" src="go.png" width="64" />
 <img align="left" alt="NodeJS" src="nodejs.png" width="64" />
@@ -15,7 +15,7 @@ Howdy! My name is Adam, and write software for a living (and sometimes for fun).
 
 ... and so on. Occasionaly I write about writing software, and I also enjoy photography and videography 📷 !
 
-## Stats
+## 📊 Stats
 
 [![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adampresley)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,6 +26,13 @@ Howdy! My name is Adam, and write software for a living (and sometimes for fun).
 - [Single-binary Web Apps in Go and Vue — Part 3](https://medium.com/swlh/single-binary-web-apps-in-go-and-vue-part-3-73f65e9cccf3?source=rss-3eab9d733e50------2)
 - [Single-binary Web Apps in Go and Vue — Part 2](https://medium.com/swlh/single-binary-web-apps-in-go-and-vue-part-2-2f52336478a2?source=rss-3eab9d733e50------2)
 <!-- BLOG-POST-LIST:END -->
+
+## 📧 Connect With Me
+
+[!<img align="left" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adam@adampresley.com)
+[!<img align="left" alt="Twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://twitter.com/adampresley1978)
+[!<img alt="Medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://adam-presley.medium.com)
+
 
 <!--
 **adampresley/adampresley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
