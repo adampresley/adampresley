@@ -4,7 +4,7 @@ Howdy! My name is Adam, and write software for a living (and sometimes for fun).
 
 ## Technologies
 
-<img align="left" alt="Go" src="go.png" style="width: 48px; height: 48px;" />
+<img align="left" alt="Go" src="go.png" width="48" />
 <img align="left" alt="NodeJS" src="nodejs.png" style="width: 48px; height: 48px;" />
 <img align="left" alt="VueJS" src="vue.png" style="width: 48px; height: 48px;" />
 <img align="left" alt="Angular" src="angular.png" style="width: 48px; height: 48px;" />
