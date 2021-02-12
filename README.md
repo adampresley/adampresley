@@ -11,8 +11,7 @@ Howdy! My name is Adam, and write software for a living (and sometimes for fun).
 <img align="left" alt="C#" src="csharp.png" width="64" />
 <img align="left" alt="JavaScript" src="javascript.png" width="64" />
 <img align="left" alt="Ionic" src="ionic.png" width="64" />
-<img align="left" alt="Bootstrap" src="bootstrap.png" width="64" />
-
+<img alt="Bootstrap" src="bootstrap.png" width="64" />
 
 ... and so on. Occasionaly I write about writing software, and I also enjoy photography and videography 📷 !
 
