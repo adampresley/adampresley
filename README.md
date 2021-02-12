@@ -29,9 +29,9 @@ Howdy! My name is Adam, and write software for a living (and sometimes for fun).
 
 ## 📧 Connect With Me
 
-[!<img align="left" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adam@adampresley.com)
-[!<img align="left" alt="Twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://twitter.com/adampresley1978)
-[!<img alt="Medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://adam-presley.medium.com)
+[<img align="left" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adam@adampresley.com)
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://twitter.com/adampresley1978)
+[<img alt="Medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://adam-presley.medium.com)
 
 
 <!--
