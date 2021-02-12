@@ -15,7 +15,9 @@ Howdy! My name is Adam, and write software for a living (and sometimes for fun).
 
 ... and so on. Occasionaly I write about writing software, and I also enjoy photography and videography 📷 !
 
+## Stats
 
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adampresley)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **adampresley/adampresley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
