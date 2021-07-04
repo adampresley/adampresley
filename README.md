@@ -21,11 +21,11 @@ Howdy! My name is Adam, and write software for a living (and sometimes for fun).
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Vim Function to Generate a Comment in Go](https://adam-presley.medium.com/vim-function-to-generate-a-comment-in-go-bf89cac7883c?source=rss-3eab9d733e50------2)
 - [Writing a Code Generator in Go](https://levelup.gitconnected.com/writing-a-code-generator-in-go-420e69151ab1?source=rss-3eab9d733e50------2)
 - [If-Else Might Not Be The Devil](https://medium.com/swlh/if-else-might-not-be-the-devil-e7ff6c1da67c?source=rss-3eab9d733e50------2)
 - [Single-binary Web Apps in Go and Vue — Part 4](https://medium.com/swlh/single-binary-web-apps-in-go-and-vue-part-4-2a1ab9f69fcb?source=rss-3eab9d733e50------2)
 - [Single-binary Web Apps in Go and Vue — Part 3](https://medium.com/swlh/single-binary-web-apps-in-go-and-vue-part-3-73f65e9cccf3?source=rss-3eab9d733e50------2)
-- [Single-binary Web Apps in Go and Vue — Part 2](https://medium.com/swlh/single-binary-web-apps-in-go-and-vue-part-2-2f52336478a2?source=rss-3eab9d733e50------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📧 Connect With Me
