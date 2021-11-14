@@ -21,7 +21,7 @@ Howdy! My name is Adam, and write software for a living (and sometimes for fun).
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I Created the Exact Same App in Vanilla JavaScript (with Web Components)](https://javascript.plainenglish.io/vanilla-javascript-todo-app-160eba391a3d?source=rss-3eab9d733e50------2)
+- [I Created the Exact Same App in Vanilla JavaScript &lpar;with Web Components&rpar;](https://javascript.plainenglish.io/vanilla-javascript-todo-app-160eba391a3d?source=rss-3eab9d733e50------2)
 - [Vim Function to Generate a Comment in Go](https://adam-presley.medium.com/vim-function-to-generate-a-comment-in-go-bf89cac7883c?source=rss-3eab9d733e50------2)
 - [Writing a Code Generator in Go](https://levelup.gitconnected.com/writing-a-code-generator-in-go-420e69151ab1?source=rss-3eab9d733e50------2)
 - [If-Else Might Not Be The Devil](https://medium.com/swlh/if-else-might-not-be-the-devil-e7ff6c1da67c?source=rss-3eab9d733e50------2)
