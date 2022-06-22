@@ -28,6 +28,10 @@ Howdy! My name is Adam, and write software for a living (and sometimes for fun).
 - [If-Else Might Not Be The Devil](https://medium.com/swlh/if-else-might-not-be-the-devil-e7ff6c1da67c?source=rss-3eab9d733e50------2)
 <!-- BLOG-POST-LIST:END -->
 
+## Certifications
+
+[<img align="left" alt="Wix Velo Certificate" src="Velo - Adam Presley.png" width="100%" />](https://www.wix.com/learn/certification/velo)
+
 ## 📧 Connect With Me
 
 [<img align="left" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adam@adampresley.com)
