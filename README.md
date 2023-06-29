@@ -19,10 +19,6 @@ Howdy! My name is Adam, and write software for a living (and sometimes for fun).
 
 [![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adampresley)](https://github.com/anuraghazra/github-readme-stats)
 
-## Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adampresley)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Transforming Raw JSON Logs to CSV](https://adam-presley.medium.com/transforming-raw-json-logs-to-csv-5d927e6093c3?source=rss-3eab9d733e50------2)
