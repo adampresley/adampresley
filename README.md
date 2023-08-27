@@ -21,11 +21,11 @@ Howdy! My name is Adam, and write software for a living (and sometimes for fun).
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HTMX vs Vanilla Javascript — My Learning Experience](https://adam-presley.medium.com/htmx-vs-vanilla-javascript-my-learning-experience-39d2db291f79?source=rss-3eab9d733e50------2)
 - [Transforming Raw JSON Logs to CSV](https://adam-presley.medium.com/transforming-raw-json-logs-to-csv-5d927e6093c3?source=rss-3eab9d733e50------2)
 - [Simple Example of Wix Data Hooks](https://adam-presley.medium.com/simple-example-of-wix-data-hooks-12f917b31b23?source=rss-3eab9d733e50------2)
 - [Writing an Interval-based Worker Pool using Generics in Go](https://adam-presley.medium.com/writing-an-interval-based-worker-pool-using-generics-in-go-b9a7416314d6?source=rss-3eab9d733e50------2)
 - [ChatGPT Won’t Replace Me… Yet.](https://adam-presley.medium.com/chatgpt-wont-replace-me-yet-ea9f319ac3f7?source=rss-3eab9d733e50------2)
-- [How I Wrote a Color Picker in Vanilla JavaScript and CSS](https://javascript.plainenglish.io/how-i-wrote-a-color-picker-in-vanilla-javascript-and-css-7a6afd7618fd?source=rss-3eab9d733e50------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Certifications
