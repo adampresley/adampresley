@@ -13,7 +13,7 @@ Howdy! My name is Adam, and write software for a living (and sometimes for fun).
 [<img align="left" alt="Ionic" src="ionic.png" width="64" />](https://ionicframework.com)
 [<img alt="Bootstrap" src="bootstrap.png" width="64" />](https://getbootstrap.com)
 
-... and so on. Occasionaly I write about writing software, and I also enjoy photography and videography 📷 !
+... and so on. Occasionaly I write about writing software, and I also enjoy photography and videography 📷 ! Looking for my resume? You can find it at [https://adampresley.dev](https://adampresley.dev).
 
 ## 📊 Stats
 
